@@ -1,1 +1,1 @@
-# nn-sloan-digital-sky-survey-classification
+# Neural network sloan-digital-sky-survey classification
